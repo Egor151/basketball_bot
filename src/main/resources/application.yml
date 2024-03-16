@@ -1,0 +1,10 @@
+telegram:
+  bot:
+    username: basketball_bot⛹️
+    token: 6779438998:AAEcXESU77Ji2-lFqvmk92CqszIHGA4iHxo
+server:
+  port: 8081
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/demo
